@@ -36,7 +36,7 @@ int main (){
 
 // Guardar los datos para graficar
 
-ofstream archivo("datos.txt");
+ofstream archivo("datos_p.txt");
 
 for(int i = 0; i < 255; i++){
       
