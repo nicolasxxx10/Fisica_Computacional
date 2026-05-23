@@ -51,6 +51,5 @@ int main() {
 
     datos.close();
     trayectoria.close();
-
     return 0;
 }
