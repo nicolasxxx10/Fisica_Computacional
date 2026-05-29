@@ -40,7 +40,8 @@ int main() {
 archivo_der.close();
 archivo_error.close();    
 
-    
+// Error maximo para diferentes tamaños de paso  
+
     double h_values [] = {1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0};
     
     ofstream archivo_errores("errores_h.txt");
