@@ -110,7 +110,7 @@ int main()
     // ARCHIVO DE SALIDA
     //==========================================================
 
-    ofstream archivo("datos_integracionx.txt");
+    ofstream archivo("datos_integracion.txt");
 
     archivo << fixed << setprecision(10);
 
